@@ -26,12 +26,14 @@ div {
 
 }
 #lightblue{
-      border-top-color: DeepSkyBlue;
+    border-top-color: Aqua;
 
 }
 #blue{
+    border-top-color: blue;
+
   
 }
 #purple{
-    
+     border-top-color: purple;
 }
