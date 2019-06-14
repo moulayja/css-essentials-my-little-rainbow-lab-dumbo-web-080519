@@ -14,9 +14,21 @@ div {
 }
 
 #yellow{
+    border-top-color: yellow;
+
+}
+#yellow{
   
 }
-   <div id="yellow">
-          <div id="green">
-            <div id="lightblue">
-              <div id="blue">
+#green{
+  
+}
+#lightblue{
+  
+}
+#blue{
+  
+}
+#purple{
+    
+}
