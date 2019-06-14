@@ -13,15 +13,17 @@ div {
   border-top-color: #f00;
 }
 
+#orange{
+    border-top-color: orange;
+
+}
 #yellow{
     border-top-color: yellow;
 
 }
-#yellow{
-  
-}
 #green{
-  
+      border-top-color: yellow;
+
 }
 #lightblue{
   
